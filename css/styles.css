@@ -642,7 +642,7 @@ footer h3 {
 }
 }
 
-@media (max-width:22rem) {
+@media (max-width:21rem) {
     .heroGrid_titles h2 {
        font-size:1.25rem;
     }
@@ -651,6 +651,5 @@ footer h3 {
     }
     #stairway{
         height:25%
-    }
-    
+    } 
 }
