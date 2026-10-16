@@ -642,7 +642,7 @@ footer h3 {
 }
 }
 
-@media (max-width:21rem) {
+@media (max-width:25rem) {
     .heroGrid_titles h2 {
        font-size:1.25rem;
     }
